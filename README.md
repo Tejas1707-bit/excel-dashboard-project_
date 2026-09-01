@@ -1,5 +1,5 @@
 
-# 📊 Excel Sales Dashboard Project:-
+#📊 Excel Sales Dashboard Project:-
 
 This project presents an **interactive, multi-city sales dashboard** developed using Microsoft Excel. It visualizes sales executive performance across different cities using Pivot Tables, Charts, Slicers, and Macros (VBA).
 
@@ -9,7 +9,7 @@ This project presents an **interactive, multi-city sales dashboard** developed u
 - **Dynamic Charts** (Bar, Pie, Line)
 - **Slicers** for city-based filtering
 - **VBA Macros** for interactivity (Toggle between dashboards)
-- **Clean UI** with automated visual updates
+- **Clean UI** with automated visual updates.
 
 ## 📌 Dashboard KPIs Used:-
 - Total Sales per Executive
@@ -28,9 +28,9 @@ This project presents an **interactive, multi-city sales dashboard** developed u
 - Demonstrate automation & reporting capabilities in Excel
 
 
-## 👨‍💻 Author
+## 👨‍💻 Author:-
 **Tejas Shinde**  
-Data Analytics Enthusiast | Excel Developer | 
+Data Analytics Enthusiast | Excel Developer 
 
 
 
